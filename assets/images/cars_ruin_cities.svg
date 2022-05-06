@@ -17,9 +17,9 @@
    id="svg4725"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="cars_ruin_cities.svg"
-   inkscape:export-filename="C:\Users\chris\Desktop\home\posters\cars_ruin_cities_638x825.png"
-   inkscape:export-xdpi="75"
-   inkscape:export-ydpi="75">
+   inkscape:export-filename="C:\Users\chris\Desktop\home\posters\cars_ruin_cities_272x352.png"
+   inkscape:export-xdpi="32"
+   inkscape:export-ydpi="32">
   <defs
      id="defs4719">
     <clipPath
@@ -164,16 +164,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="528.2519"
-     inkscape:cy="418.06893"
+     inkscape:zoom="0.5"
+     inkscape:cx="-305.18737"
+     inkscape:cy="548.97564"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
-     inkscape:window-x="1912"
-     inkscape:window-y="1"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="in"
      showguides="true"
@@ -211,6 +211,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-17.6)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.71839666;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1535"
+       width="215.89999"
+       height="279.39999"
+       x="5.7731597e-15"
+       y="17.6"
+       inkscape:label="white background" />
     <image
        y="22.224979"
        x="-86.975418"
@@ -263,7 +271,7 @@
          id="tspan5340">Cities</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.90196079;stroke:none;stroke-width:0.26458332;opacity:0.9;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.9;fill:#ffffff;fill-opacity:0.90196078;stroke:none;stroke-width:0.26458332"
        x="13.885119"
        y="179.99835"
        id="text5346"
@@ -272,11 +280,11 @@
          id="tspan5344"
          x="13.885119"
          y="179.99835"
-         style="fill:#ffffff;fill-opacity:0.90196079;stroke-width:0.26458332;opacity:0.9;">Better cities are possible, see:</tspan><tspan
+         style="opacity:0.9;fill:#ffffff;fill-opacity:0.90196078;stroke-width:0.26458332">Better cities are possible, see:</tspan><tspan
          sodipodi:role="line"
          x="13.885119"
          y="194.10947"
-         style="stroke-width:0.26458332;fill:#ffffff;fill-opacity:0.90196079;"
+         style="fill:#ffffff;fill-opacity:0.90196078;stroke-width:0.26458332"
          id="tspan5348" /></text>
     <text
        xml:space="preserve"
@@ -292,7 +300,7 @@
          style="font-size:13.40555573px;opacity:0.9;fill:#ffffff;fill-opacity:0.90196078;stroke-width:0.26458332">&quot;Not Just Bikes&quot; youtube</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.90196079;stroke:none;stroke-width:0.26458332;opacity:0.9;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.9;fill:#ffffff;fill-opacity:0.90196078;stroke:none;stroke-width:0.26458332"
        x="44.450001"
        y="239.85001"
        id="text5356"
@@ -301,7 +309,7 @@
          id="tspan5354"
          x="44.450001"
          y="239.85001"
-         style="font-size:13.8923893px;fill:#ffffff;fill-opacity:0.90196079;stroke-width:0.26458332;opacity:0.9;">thewaroncars.org</tspan></text>
+         style="font-size:13.8923893px;opacity:0.9;fill:#ffffff;fill-opacity:0.90196078;stroke-width:0.26458332">thewaroncars.org</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.9;fill:#ffffff;fill-opacity:0.90196078;stroke:none;stroke-width:0.26458332"
