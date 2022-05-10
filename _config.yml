@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: /cgeroux/cars_ruin_cities
 
 # Title of the Site
 title: Cars Ruin Cities
